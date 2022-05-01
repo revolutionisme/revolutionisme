@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+I'm a Data and ML Engineer from India 🇮🇳, working in Germany 🇩🇪 these days.
+
+**More about me**
+
+- 💼 Data Engineering Consultant at [Thoughtworks](https://www.thoughtworks.com)
+- 🔭 Haven't been building super awesome crazy things here on Github yet (Want to change that soon), although some private projects and scripts.
+- ❤️ Mostly work with Python but have brief experience with Java/Scala, although used YAML for writing infrastructure as well.
+- 😄 Pronouns: He/Him
+
 <!--
 **revolutionisme/revolutionisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
