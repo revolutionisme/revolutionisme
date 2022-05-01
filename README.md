@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## Quick overview
 * GitHub stats:  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=revolutionisme&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
+
+<p align="center">
+  <img  height="170" src="https://github-readme-stats.vercel.app/api?username=revolutionisme&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revolutionisme&layout=compact&theme=buefy&show_icons=true&langs_count=6&hide=rich%20text%20format" />
+</p>
