@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img  height="170" src="https://github-readme-stats.vercel.app/api?username=revolutionisme&theme=buefy&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revolutionisme&layout=compact&theme=buefy&show_icons=true&langs_count=6&hide=rich%20text%20format" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revolutionisme&layout=compact&theme=buefy&show_icons=true&langs_count=6&hide=rich%20text%20format,stata" />
 </p>
